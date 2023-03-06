@@ -39,9 +39,9 @@ I had to commit some Visual Studio specific artifacts like \*.sln, \*.vcxproj.\*
 
 8) [bfcacce](https://github.com/pietromartinso/ninjarmm_screening/tree/bfcacce361841acff09cdc3448c959f819918fef/step1/src/step1UnitTests) - Some passing unit tests for ``IsInBound()`` function;
 
-8) [bd3f7f2](https://github.com/pietromartinso/ninjarmm_screening/tree/bd3f7f29ecd13b844b35a892462b7e134f3085d1/step1/src/step1UnitTests) - Some passing unit tests for ``ContainsTheString()`` function;
+9) [bd3f7f2](https://github.com/pietromartinso/ninjarmm_screening/tree/bd3f7f29ecd13b844b35a892462b7e134f3085d1/step1/src/step1UnitTests) - Some passing unit tests for ``ContainsTheString()`` function;
 
-9) [95a74b7](https://github.com/pietromartinso/ninjarmm_screening/tree/95a74b7ff3d51e5bf13ddb4be6345c9f4b6a680d/step1/src) - Further improvements, now using multithreading.
+10) [95a74b7](https://github.com/pietromartinso/ninjarmm_screening/tree/95a74b7ff3d51e5bf13ddb4be6345c9f4b6a680d/step1/src) - Further improvements, now using multithreading.
 
 ## **Step 2** ##
 
